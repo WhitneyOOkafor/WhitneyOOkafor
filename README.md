@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WhitneyOOkafor
+- 👋 Hi, I’m @WhitneyLuus
 - 👀 I’m interested in UX/UI design and front-end development
 - 🌱 I’m currently learning React.JS and React Native
 - 💞️ I’m looking to collaborate on anything and everything
